@@ -1,10 +1,3 @@
-# Demo script — 3 minutes
-
-Record in **View mode**, not edit mode. No left rail, no config panel, no
-layers tree — editing chrome makes finished work look unfinished.
-
----
-
 ## 0:00 — What this is (20s)
 
 > "This is a complaint review console for a bank's operations team, built in
@@ -67,12 +60,3 @@ Wait for the answer, then open **View source**.
 
 > "Data prep is reproducible from the repo. The build journal covers every
 > decision, including what I got wrong."
-
----
-
-## Don't
-
-- Don't demo in edit mode
-- Don't select a company with three complaints — the charts look broken
-- Don't claim time saved or outcomes improved; nothing here measures that
-- Don't skip the AIP source view — it's the least fakeable moment in the demo
