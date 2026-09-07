@@ -1,0 +1,15 @@
+{
+  "complaints": 99898,
+  "companies": 657,
+  "flagged": 1060,
+  "in_progress": 8435,
+  "with_narrative": 30798,
+  "flagged_rate": 1.06,
+  "date_min": "2026-03-18",
+  "date_max": "2026-09-01",
+  "products": {
+    "Credit card": 42209,
+    "Checking or savings account": 40391,
+    "Money transfer, virtual currency, or money service": 17298
+  }
+}
