@@ -1,6 +1,4 @@
-# Reproducing the export
-
-The raw file is ~76 MB and is not committed. To regenerate it:
+The main data
 
 1. Go to the [CFPB Consumer Complaint Database](https://www.consumerfinance.gov/data-research/consumer-complaints/)
 2. Open **Download the data**
@@ -14,7 +12,7 @@ The raw file is ~76 MB and is not committed. To regenerate it:
    | | Checking or savings account |
    | | Money transfer, virtual currency, or money service |
 
-4. Export as CSV and save it here.
+Export as CSV and save it here.
 
 That should give **99,898 rows across 16 columns**, covering 657 companies.
 
